@@ -23,7 +23,6 @@ This setup is based on the following two-part tutorial:
 - **Route Tables** for proper network flow
 - **Security Groups** to control access
 - **EC2 Instance** with Apache, PHP, MySQL
-- **Elastic IP** for browser access
 - Manual WordPress installation on EC2
 - RDS instance.
 
